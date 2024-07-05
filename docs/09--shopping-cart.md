@@ -17,6 +17,6 @@ Design & verify cart behaviours
 
 
 ## Files
-* [src/test/java/pl/jkanclerz/ecommerce/sales/cart/CartTest.java](../src/test/java/pl/jkanclerz/ecommerce/sales/cart/CartTest.java)
-* [src/main/java/pl/jkanclerz/ecommerce/sales/cart/Cart.java](../src/main/java/pl/jkanclerz/ecommerce/sales/cart/Cart.java)
-* [src/main/java/pl/jkanclerz/ecommerce/sales/cart/CartItem.java](../src/main/java/pl/jkanclerz/ecommerce/sales/cart/CartItem.java)
+* [src/test/java/pl/jkanclerz/ecommerce/sales/cart/CartTest.java](../src/test/java/pl/ppacocha/ecommerce/sales/cart/CartTest.java)
+* [src/main/java/pl/jkanclerz/ecommerce/sales/cart/Cart.java](../src/main/java/pl/ppacocha/ecommerce/sales/cart/Cart.java)
+* [src/main/java/pl/jkanclerz/ecommerce/sales/cart/CartItem.java](../src/main/java/pl/ppacocha/ecommerce/sales/cart/CartItem.java)
